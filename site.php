@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
+    <!-- <?php
 
         $characherName = "john";
         $characherAge = 35;
@@ -17,6 +17,21 @@
         $characherName = "rapoo";
         echo"He really liked the name $characherName <br>";
         echo"But didn't like being $characherAge <br>";
+    ?> -->
+
+    <!-- Datatypes in php -->
+    <?php
+        //strings
+        $phrase = "To be or not to be";
+
+        //number whole number & decimal
+        $age = 30;
+        $gpa = 30.3;
+
+        //booleans -- true or false
+        $isMale = true;
+
+        //null -- no value
     ?>
 </body>
 </html>
