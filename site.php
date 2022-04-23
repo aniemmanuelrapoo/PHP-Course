@@ -8,7 +8,7 @@
 </head>
 <body>
     
-    <?php
+    <!-- <?php
 
         $characherName = "john";
         $characherAge = 35;
@@ -18,10 +18,10 @@
         $characherName = "rapoo";
         echo"He really liked the name $characherName <br>";
         echo"But didn't like being $characherAge <br>";
-    ?>
+    ?> -->
 
     <!-- Datatypes in php -->
-    <?php
+    <!-- <?php
         //strings
         $phrase = "To be or not to be";
 
@@ -33,12 +33,17 @@
         $isMale = true;
 
         //null -- no value
-    ?>
+    ?> -->
 
     <!-- Working with strings -->
-    <?php 
+    <!-- <?php 
         $phase = "testing strings";
         echo strtoupper($phase)
+    ?> -->
+
+    <!-- Working with Number -->
+    <?php 
+       
     ?>
 </body>
 </html>
